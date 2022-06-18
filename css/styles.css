@@ -1,6 +1,30 @@
-body {
-    background-color: blue;
+div {
+    background-color: burlywood;
+    text-align: center;
+    color: black;
+    cursor: crosshair;
 }
-h1 {
-    color: aqua;
+
+[src] {
+    display: block;
+    margin: 0 auto;
+    border-radius: 5%;
+    border-style: groove;
+    border-color: black;
+}
+
+h3 {
+    color: dimgrey;
+}
+
+h2 {
+    font-style: oblique;
+}
+
+#up {
+    font-size: large;
+}
+
+a {
+    color: rgb(88, 88, 6);
 }
